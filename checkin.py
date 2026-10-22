@@ -20,7 +20,7 @@ class CheckinStatus(Enum):
     FAILURE = -2
 
 
-class ExchangePlan(Enum):
+class ExchangePlan(Enum):PLAN100 = "plan100"
     """兑换计划"""
 
     PLAN100 = "plan100"
